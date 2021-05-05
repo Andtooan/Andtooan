@@ -11,10 +11,17 @@ Proud Rotaractor.
 
 Skills & technologies:
  HTML, CSS, JavaScript 
+ 
  SASS/LESS/STYLUS
+ 
  Vue.Js
+ 
  Svelte
+ 
  Photoshop
+ 
  Ilustrator
+ 
  Spark AR Studio
+ 
  Git & GitHub
