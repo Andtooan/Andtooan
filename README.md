@@ -10,6 +10,7 @@ Proud Rotaractor.
 
 
 Skills & technologies:
+
  HTML, CSS, JavaScript 
  
  SASS/LESS/STYLUS
