@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Andtooan/Andtooan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![832357](https://user-images.githubusercontent.com/72485462/117160532-cbb82d00-ad86-11eb-97ea-6e2d1393c874.jpeg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Hi there Im Antonio Dromundo 👋
+
+Software Enginner with passion for social solutions.
+Proud Rotaractor.
+
+
+Skills & technologies:
+ HTML, CSS, JavaScript 
+ SASS/LESS/STYLUS
+ Vue.Js
+ Svelte
+ Photoshop
+ Ilustrator
+ Spark AR Studio
+ Git & GitHub
