@@ -26,3 +26,12 @@ Skills & technologies:
  Spark AR Studio
  
  Git & GitHub
+
+Technologies
+  
+
+Softwares, IDE's, OS's
+  
+
+Languages
+  
