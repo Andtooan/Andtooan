@@ -27,11 +27,4 @@ Skills & technologies:
  
  Git & GitHub
 
-Technologies
-  
 
-Softwares, IDE's, OS's
-  
-
-Languages
-  
