@@ -4,9 +4,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Antonio Dromundo</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
-<h3Software Enginner with passion for social solutions.
+<h3 align="center">Software Enginner with passion for social solutions.
 Proud Rotaractor.</h3>
+
 
 - 🌱 I’m currently learning **at Platzi Master**
 
