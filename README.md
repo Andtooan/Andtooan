@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="you can see the implementation in">
+    <a href="https://cocky-brown-7599d4.netlify.app/">
       Demo
     </a>
   </h3>
